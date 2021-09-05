@@ -1,3 +1,6 @@
-[submodule "themes/blank"]
-	path = themes/blank
-	url = https://github.com/vimux/blank
+[submodule "themes/mainload"]
+	path = themes/mainload
+	url = https://github.com/vimux/mainroad
+[submodule "mainroad"]
+	path = mainroad
+	url = https://github.com/vimux/mainroad
